@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3Properties", "MP3Properties\MP3Properties.csproj", "{86B8F4EB-6643-43E8-99C9-CC4F551C0522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3TagEditor", "MP3TagEditor\MP3TagEditor.csproj", "{A35B08E4-30C7-45D4-B095-0E12A5A854FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B8F4EB-6643-43E8-99C9-CC4F551C0522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B8F4EB-6643-43E8-99C9-CC4F551C0522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B8F4EB-6643-43E8-99C9-CC4F551C0522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B8F4EB-6643-43E8-99C9-CC4F551C0522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35B08E4-30C7-45D4-B095-0E12A5A854FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35B08E4-30C7-45D4-B095-0E12A5A854FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35B08E4-30C7-45D4-B095-0E12A5A854FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35B08E4-30C7-45D4-B095-0E12A5A854FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
